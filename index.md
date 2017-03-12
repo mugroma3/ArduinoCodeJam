@@ -13,6 +13,7 @@ Ricapitolando...
 
 ### Dove
 [Workco](http://workco.it) - Via Alessandro Cialdi 3a - Roma (zona Garbatella)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2971.4829309686716!2d12.478640315744133!3d41.86095507922354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13258a864c517a05%3A0xd6961d7f3fe82b73!2sWorkco!5e0!3m2!1sit!2sit!4v1489342793405" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
 
 ### Programma 
 Sabato 1 Aprile 2017 dalle 10 alle 19 (poi birra al pub)
