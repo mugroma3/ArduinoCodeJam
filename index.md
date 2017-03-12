@@ -12,7 +12,7 @@ L'evento è aperto a chiunque: a breve pubblicheremo il link per iscriversi (pos
 Ricapitolando...
 
 ### Dove
-[Workco] (http://workco.it) - Via Alessandro Cialdi 3a - Roma (zona Garbatella)
+[Workco](http://workco.it) - Via Alessandro Cialdi 3a - Roma (zona Garbatella)
 
 ### Programma 
 Sabato 1 Aprile 2017 dalle 10 alle 19 (poi birra al pub)
