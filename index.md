@@ -37,4 +37,4 @@ Attrezzi, materiale consumabile di base (resistenze, led, ecc...)
 ### Cosa si vince?
 La fama, la gloria ed un fantastico trofeo, la 0-ohm cup!
 
-![Arduinati!](ArduinoCodeJam/ArduinoDay2017_banners_02.jpg?raw=true)
+![Arduinati!](ArduinoDay2017_banners_02.jpg?raw=true)
