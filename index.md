@@ -32,14 +32,14 @@ Sabato 1 Aprile 2017 dalle 10 alle 19 (poi birra al pub)
 Chiunque, previa registrazione: [**clicca qui, posti limitati!**](https://docs.google.com/forms/d/e/1FAIpQLSdG7g0SY8hB4VzIohxwEFL-8JD-JalS4pstKzDLKyW-1YXcLw/viewform)
 
 ### Prerequisiti
-Saper smanettare con Arduino, sensori, saldatori e quant'altro
+Saper smanettare con Arduino, sensori, saldatori e quant'altro... o avere tanta voglia di divertirsi ed imparare!
 
 ### Materiale richiesto
-Almeno la vostra scheda Arduino e sensoristica
+La vostra scheda Arduino e sensoristica varia: se non hai il materiale non ti preoccupare, ti daremo una mano a trovare un gruppo con cui lavorare!
 
 ### Materiale fornito
 Attrezzi, materiale consumabile di base (resistenze, led, ecc...)
 
 ### Cosa si vince?
-La fama, la gloria ed un fantastico trofeo, la 0-ohm cup!
+La fama, la gloria ed un fantastico trofeo, la _0-ohm cup_!
 
