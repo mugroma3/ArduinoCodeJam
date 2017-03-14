@@ -3,7 +3,7 @@
 
 ![Arduinati!](ArduinoDay2017_banners_02.jpg?raw=true)
 
-## Non sai cosa è una _Arduino Code Jam_? 
+## Non sai cos'è un _Arduino Code Jam_? 
 È un evento dove, da solo o con un piccolo team, si sviluppa un progetto creativo basato su Arduino, ispirato da un tema che verrà rivelato il giorno prima. 
 Dalle 10 alle 18 si lavora, dalle 18 alle 19 ci sarà lo showcase dei progetti realizzati e alle 19 al pub! Premiazione per votazione popolare del progetto più bello, con consegna della minicoppa *0 ohm* realizzata dal maestro Valerio Marta.
 
