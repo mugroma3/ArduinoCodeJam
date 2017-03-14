@@ -9,7 +9,10 @@ Dalle 10 alle 18 si lavora, dalle 18 alle 19 ci sarà lo showcase dei progetti r
 
 Se conosci Arduino o sai saldare o hai una idea per uno show di luci, unisciti a noi sabato per una giornata all'insegna del caos! Sarà un evento informale, un'occasione per conoscere altri appassionati, scambiare idee e sicuramente creare qualcosa di bello. 
 
-L'evento è aperto a chiunque, previa registrazione (causa posti limitati): [cliccate qui](https://docs.google.com/forms/d/e/1FAIpQLSdG7g0SY8hB4VzIohxwEFL-8JD-JalS4pstKzDLKyW-1YXcLw/viewform). Chiederemo un **contributo di 3€** che verrà speso per le bevande e il caffé.
+L'evento è aperto a chiunque, previa registrazione (causa posti limitati)! Quindi...
+
+###[Cliccate qui per registrarvi all'evento!](https://docs.google.com/forms/d/e/1FAIpQLSdG7g0SY8hB4VzIohxwEFL-8JD-JalS4pstKzDLKyW-1YXcLw/viewform)
+Chiederemo un **contributo di 3€** che verrà speso per le bevande e il caffé.
 
 Ricapitolando...
 
@@ -25,7 +28,7 @@ Sabato 1 Aprile 2017 dalle 10 alle 19 (poi birra al pub)
 * 19.00 ad oltranza: birra al pub!
 
 ### Chi può partecipare
-Chiunque, previa registrazione: [clicca qui, posti limitati!](https://docs.google.com/forms/d/e/1FAIpQLSdG7g0SY8hB4VzIohxwEFL-8JD-JalS4pstKzDLKyW-1YXcLw/viewform)
+Chiunque, previa registrazione: [**clicca qui, posti limitati!**](https://docs.google.com/forms/d/e/1FAIpQLSdG7g0SY8hB4VzIohxwEFL-8JD-JalS4pstKzDLKyW-1YXcLw/viewform)
 
 ### Prerequisiti
 Saper smanettare con Arduino, sensori, saldatori e quant'altro
