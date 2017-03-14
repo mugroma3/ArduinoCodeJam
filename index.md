@@ -11,7 +11,7 @@ Se conosci Arduino o sai saldare o hai una idea per uno show di luci, unisciti a
 
 L'evento è aperto a chiunque, previa registrazione (causa posti limitati)! Quindi...
 
-###[Cliccate qui per registrarvi all'evento!](https://docs.google.com/forms/d/e/1FAIpQLSdG7g0SY8hB4VzIohxwEFL-8JD-JalS4pstKzDLKyW-1YXcLw/viewform)
+[### Cliccate qui per registrarvi all'evento!](https://docs.google.com/forms/d/e/1FAIpQLSdG7g0SY8hB4VzIohxwEFL-8JD-JalS4pstKzDLKyW-1YXcLw/viewform)
 Chiederemo un **contributo di 3€** che verrà speso per le bevande e il caffé.
 
 Ricapitolando...
