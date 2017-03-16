@@ -1,5 +1,5 @@
 # Arduino Day Code Jam - 1 aprile 2017
-**MUG Roma3** e **Workco** ti invitano alla Arduino Code Jam che si terrà sabato 1 Aprile presso Workco, zona Garbatella, in occasione dell'[Arduino Day 2017](https://day.arduino.cc)!
+**[MUG Roma3](https://www.facebook.com/mugroma3/)** e **[Workco](http://workco.it)** ti invitano alla Arduino Code Jam che si terrà sabato 1 Aprile presso Workco, zona Garbatella, in occasione dell'[Arduino Day 2017](https://day.arduino.cc)!
 
 ![Arduinati!](ArduinoDay2017_banners_02.jpg?raw=true)
 
