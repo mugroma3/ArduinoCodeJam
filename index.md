@@ -43,3 +43,4 @@ Attrezzi, materiale consumabile di base (resistenze, led, ecc...)
 ### Cosa si vince?
 La fama, la gloria ed un fantastico trofeo, la _0-ohm cup_!
 
+<p style="color:white">"Chi si estranea dalla lotta è n'gran fiodenamignotta" - Alberto Sordi</p>
