@@ -1,3 +1,7 @@
+## Il tema della Code Jam sarà:
+rullo di tamburi...
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NjHjcfIwI6Q?rel=0" frameborder="0" allowfullscreen></iframe>
+
 # Arduino Day Code Jam - 1 aprile 2017
 **[MUG Roma3](https://www.facebook.com/mugroma3/)** e **[Workco](http://workco.it)** ti invitano alla Arduino Code Jam che si terrà sabato 1 Aprile presso Workco, zona Garbatella, in occasione dell'[Arduino Day 2017](https://day.arduino.cc)!
 
